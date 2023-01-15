@@ -1,7 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-To-Do List Laravel App
-Welcome to the To-Do List Laravel App! This is a simple web application that allows users to create and manage their own to-do lists.
+<h3>To-Do List Laravel App</h3>
+<a>Welcome to the To-Do List Laravel App!</a>
+<p>This is a simple web application that allows users to create and manage their own to-do lists.</p>
 
 Prerequisites
 Before you can begin setting up the app, you will need to make sure that you have the following installed on your computer:
